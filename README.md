@@ -17,7 +17,10 @@ Dependencies
 	boost 1.54
 	OpenSSL
 	cmake 2.8.12
-  libreadline-dev
+	uuid-dev
+	BerkleyDB 4.8+
+	libreadline-dev
+	
 
 OS X Build Instructions
 -----------------------
